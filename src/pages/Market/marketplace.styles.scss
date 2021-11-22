@@ -1,0 +1,27 @@
+img{
+    width: 100%;
+    height: 250px; 
+}
+
+.nft-item{
+    border-radius: 2px;
+    border-style: groove;
+    width: 20%;
+    margin: 30px;
+ 
+}
+.nft-collection{
+    display:inline-flex;
+    margin: 30px;
+}
+.movieInfo{
+    text-align: center;
+}
+.pricePositions{
+    text-align: center;
+}
+.buyButton{
+    border-radius: 1.2px;
+    border-style: groove;
+    margin-bottom: 5px;
+}

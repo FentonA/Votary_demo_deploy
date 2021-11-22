@@ -1,0 +1,33 @@
+input{
+    background-color: unset;
+    color:blanchedalmond !important;
+    width: 90%;
+}
+form{
+    font-size: 45px;
+    width: 550px;
+    margin: auto;
+    margin-top: 50px;
+}
+.mint-title{
+    font-size: 40px;
+    text-decoration: underline;
+}
+.input-styles{
+    border-color:blanchedalmond;
+    border:unset;
+}
+.upload{
+    display: inline-flex;
+    margin:auto;
+    width: 80%;
+    font-size: 15px;
+}
+.upload-directive{
+    font-size: 15px;
+    background-color: unset;
+}
+::placeholder{
+    color:blanchedalmond;
+    border-color: blanchedalmond
+}
